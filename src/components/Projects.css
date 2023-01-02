@@ -1,0 +1,33 @@
+
+.workshop-bg-1 {
+    background-color: rgba(217, 217, 217, 0.9);
+    color: #000;
+    border-radius: 16px;
+}
+.workshop-bg-2 {
+    background-color: #f06d55;
+    border-radius: 16px;
+}
+.workshop-bg-2 .custom-button {
+    background: #000;
+}
+
+.custom-button, button {
+    background-color: #f06d55;
+    border: none;
+    color: #fff;
+    font-weight: 800;
+    border-radius: 6px;
+    font-size: 18px;
+}
+.social-icon{
+    font-size: 24px;
+}
+.button{
+    background-color: #000000;
+    border: none;
+    color: #fff;
+    font-weight: 800;
+    border-radius: 6px;
+    font-size: 18px;
+}

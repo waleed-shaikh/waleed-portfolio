@@ -1,0 +1,25 @@
+.work-inquiry, .workshop-bg-1 {
+    background-color: hsla(0,0%,100%,.9);
+    color: #000;
+    border-radius: 16px;
+}
+.ibg{
+    height: 300px;
+}
+.dark-ibg {
+    background-color: #1f1f1f;
+}
+
+.light-ibg {
+    background-color: rgb(232, 232, 232);
+}
+
+@media screen and (max-width: 600px) {
+    .ibg{
+        padding: 30px 12px 30px 12px !important;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    
+}

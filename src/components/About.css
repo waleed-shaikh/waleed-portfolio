@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+h2{
+    color: white;
+    font-weight: 700;
+}
+h4{
+    color: white;
+}
+.dark-bg {
+    background-color: #1f1f1f;
+}
+.light-bg{
+    background-color: rgb(232, 232, 232);
+}
+.custom-button:hover{
+    color: blue !important;
+}
