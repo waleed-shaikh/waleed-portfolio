@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/waleed-portfolio/static/css/main.9d1ea2cc.css",
-    "main.js": "/waleed-portfolio/static/js/main.8902eed7.js",
+    "main.js": "/waleed-portfolio/static/js/main.2fd5d0d9.js",
     "static/media/waleed.png": "/waleed-portfolio/static/media/waleed.ad115b26762487da6fd5.png",
     "static/media/javascript.png": "/waleed-portfolio/static/media/javascript.cae65a84867e9d6ad7bf.png",
     "static/media/mongodb.png": "/waleed-portfolio/static/media/mongodb.6170bacefd8a1f69ca74.png",
@@ -11,10 +11,10 @@
     "static/media/css.png": "/waleed-portfolio/static/media/css.463e319bad8e0edf1ef7.png",
     "index.html": "/waleed-portfolio/index.html",
     "main.9d1ea2cc.css.map": "/waleed-portfolio/static/css/main.9d1ea2cc.css.map",
-    "main.8902eed7.js.map": "/waleed-portfolio/static/js/main.8902eed7.js.map"
+    "main.2fd5d0d9.js.map": "/waleed-portfolio/static/js/main.2fd5d0d9.js.map"
   },
   "entrypoints": [
     "static/css/main.9d1ea2cc.css",
-    "static/js/main.8902eed7.js"
+    "static/js/main.2fd5d0d9.js"
   ]
 }
